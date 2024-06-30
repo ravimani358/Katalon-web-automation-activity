@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Nesbridge</name>
+   <tag></tag>
+   <elementGuidId>7c51e597-e828-48a7-81b1-cef57bd26950</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#8632343612 > div.activity-card > div.activity-card-text.text-md-center.w-100.mt-3 > div.d-block.d-md-flex.justify-content-between.flex-wrap.pl-3.pr-3 > h5.text-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='8632343612']/div[2]/div/div/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Party Nesbridge ₹3316 Duration 4 Hours&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>a2b19026-968c-4207-9f58-007052c126d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-left</value>
+      <webElementGuid>674fb732-336a-4b0f-8034-1c3562d6134b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nesbridge</value>
+      <webElementGuid>976ff20c-30e2-415f-b5ff-39c3482c6dcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;8632343612&quot;)/div[@class=&quot;activity-card&quot;]/div[@class=&quot;activity-card-text text-md-center w-100 mt-3&quot;]/div[@class=&quot;d-block d-md-flex justify-content-between flex-wrap pl-3 pr-3&quot;]/h5[@class=&quot;text-left&quot;]</value>
+      <webElementGuid>155a4155-e388-4db8-9670-c30a370cff65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='8632343612']/div[2]/div/div/h5</value>
+      <webElementGuid>9fd89acf-200c-4933-91c8-45e699692ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Party'])[1]/following::h5[1]</value>
+      <webElementGuid>83c02b1a-9b8f-4e69-b365-a7148455a40d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duration'])[2]/following::h5[1]</value>
+      <webElementGuid>2b021a5c-549e-46a2-b144-10bf1a073a13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duration'])[3]/preceding::h5[1]</value>
+      <webElementGuid>e39e35db-f249-4171-83d9-e936c02e11ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Party'])[2]/preceding::h5[2]</value>
+      <webElementGuid>1bcc42d7-764b-4e42-95c2-7f91b908f0a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nesbridge']/parent::*</value>
+      <webElementGuid>b3e174b5-0754-4239-86d2-ab0df2612eaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div[2]/div/div/h5</value>
+      <webElementGuid>c7b8f3a9-9733-4bb9-b2fd-4e7d4800e9dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Nesbridge' or . = 'Nesbridge')]</value>
+      <webElementGuid>5262ea45-f3d2-42fd-9ab7-786a0f547b37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

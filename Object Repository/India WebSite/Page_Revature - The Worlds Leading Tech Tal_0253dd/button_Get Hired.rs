@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Get Hired</name>
+   <tag></tag>
+   <elementGuidId>070b0462-d0f3-4a8f-807a-95c1dd680113</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#site-header-nav-get-hired-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='site-header-nav-get-hired-1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Get Hired&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9105da67-cf8a-4136-8299-2155897e448d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-2 px-7 rounded-full uppercase tracking-[.14em] outline-none</value>
+      <webElementGuid>dc1d3a3a-47d6-4148-905e-9cb94b0c12f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>site-header-nav-get-hired-1</value>
+      <webElementGuid>66ba9d5a-8cbd-4217-afa7-95c1231e2155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get Hired</value>
+      <webElementGuid>3d1753d8-53a7-45c7-9355-1e28471d08bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header-nav-get-hired-1&quot;)</value>
+      <webElementGuid>17022f95-5b34-4e24-968e-3dcca9fb936c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='site-header-nav-get-hired-1']</value>
+      <webElementGuid>20fa3876-093b-4ddf-a89f-19cc81cf0319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/nav/div/div/div[2]/div/ul/li[2]/button</value>
+      <webElementGuid>7e4b3f1d-4fc0-4cc7-8433-ec0bd323281d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/following::button[1]</value>
+      <webElementGuid>4ca9f4fa-9684-4655-97ee-91a177e76b54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::button[1]</value>
+      <webElementGuid>811dc74e-63e1-44de-a619-30ec5186e407</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources'])[1]/preceding::button[2]</value>
+      <webElementGuid>88ccd0e0-c077-4f20-9fbd-9c4013b7b3ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get Hired']/parent::*</value>
+      <webElementGuid>9253c14a-f0e6-4fe2-b41f-b89409083117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/button</value>
+      <webElementGuid>79cf53b5-395c-439a-b74c-20d79677e0bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'site-header-nav-get-hired-1' and (text() = 'Get Hired' or . = 'Get Hired')]</value>
+      <webElementGuid>9350a62d-9e42-4fed-acaa-92615833cf9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Full Name_firstName</name>
+   <tag></tag>
+   <elementGuidId>410ecff1-1272-44c4-b503-639f30ecfec4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;firstName&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='firstName']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;First Name&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c691600c-dcb5-4f56-bfa4-6cf1991ce169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>firstName</value>
+      <webElementGuid>82bfa0aa-ab4a-44d2-baca-dd3a3b00a60f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-2 rounded-lg px-[16px] pt-[17px] pb-[19px]  leading-none focus:border-blue transition-all duration-300 shadow-[0px_0px_0px_0px_rgba(7,65,203,0.15)] focus:shadow-[0px_0px_0px_4px_rgba(7,65,203,0.15)] outline-none</value>
+      <webElementGuid>5bcc4d38-21ab-4f58-8f60-e558e81691e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>4738a3a2-0cc9-4805-a4bd-b1b1c667431f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>First Name</value>
+      <webElementGuid>7073b118-5163-41ca-84e3-f3dc75db55fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;apply&quot;)/form[2]/fieldset[@class=&quot;flex flex-col mb-6 last:mb-0 min-w-0&quot;]/div[2]/div[@class=&quot;grid grid-cols-2 gap-2 md:gap-5&quot;]/div[@class=&quot;flex flex-col relative&quot;]/input[@class=&quot;border-2 rounded-lg px-[16px] pt-[17px] pb-[19px]  leading-none focus:border-blue transition-all duration-300 shadow-[0px_0px_0px_0px_rgba(7,65,203,0.15)] focus:shadow-[0px_0px_0px_4px_rgba(7,65,203,0.15)] outline-none&quot;]</value>
+      <webElementGuid>e62c3619-6e0b-4a6c-85eb-2b405c044348</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='firstName']</value>
+      <webElementGuid>a0f005d0-e27c-4c9a-a10c-d283924d3e73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='apply']/form[2]/fieldset/div[2]/div/div/input</value>
+      <webElementGuid>149d2859-b4ea-4f15-a48d-3c28f2c23d95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>9bd7c043-3569-463a-91f0-ae7fd1eabcd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'firstName' and @type = 'text' and @placeholder = 'First Name']</value>
+      <webElementGuid>ab3cc7e7-e397-4573-a5ba-1b6c87375137</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>QTrip witout login reservation checking</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6dedeb85-bc5e-49b2-b87b-85d2dbc1bc38</testCaseGuid>
+</TestCaseEntity>

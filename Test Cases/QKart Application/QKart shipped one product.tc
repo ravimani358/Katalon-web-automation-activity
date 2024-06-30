@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>QKart shipped one product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ac6c608-d803-4d2c-81db-117650accd67</testCaseGuid>
+</TestCaseEntity>

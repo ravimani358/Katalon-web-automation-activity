@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Kolkata</name>
+   <tag></tag>
+   <elementGuidId>6402ed1b-60a4-4ca1-a775-a7cf29727327</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#kolkata > div.tile > div.tile-text.text-center > h5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='kolkata']/div/div/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Kolkata 100+ Places&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>8b384a96-00fd-4059-919a-5410a599cce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kolkata</value>
+      <webElementGuid>30814b12-a668-4897-a0a0-29b35b9c850c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kolkata&quot;)/div[@class=&quot;tile&quot;]/div[@class=&quot;tile-text text-center&quot;]/h5[1]</value>
+      <webElementGuid>9688093b-bc0b-48f4-b61a-bc78c21a6685</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='kolkata']/div/div/h5</value>
+      <webElementGuid>ed418470-219f-4919-af3b-53dd5d3e180c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Goa'])[1]/following::h5[1]</value>
+      <webElementGuid>7a90a3fc-86c4-49ee-ae30-9e5f8c39e226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bengaluru'])[1]/following::h5[2]</value>
+      <webElementGuid>8867d916-fe5f-4d35-bad9-903674956b2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Singapore'])[1]/preceding::h5[1]</value>
+      <webElementGuid>439badf6-090f-45d1-96b0-c053b93d9098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Malaysia'])[1]/preceding::h5[2]</value>
+      <webElementGuid>967e1139-ba2b-4162-a52a-c767d8e11d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kolkata']/parent::*</value>
+      <webElementGuid>c958bb26-e8f5-47a8-b08e-247c6b16310b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div/div/h5</value>
+      <webElementGuid>7e99959c-573b-478a-b319-fa3041d38e06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Kolkata' or . = 'Kolkata')]</value>
+      <webElementGuid>e70d0cd1-7b89-4906-9c3e-53d0fa5deabf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

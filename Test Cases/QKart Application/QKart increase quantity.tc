@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>QKart increase quantity</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>09f0c830-3f7c-4308-9217-a1f8f35d8e93</testCaseGuid>
+</TestCaseEntity>

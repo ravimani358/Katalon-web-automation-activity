@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hotels_chNavIcon appendBottom2 chSprit_db2961</name>
+   <tag></tag>
+   <elementGuidId>d4013f3f-f8f4-4dff-a442-9d66bab8a0e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[text()='Hotels'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.chNavIcon.appendBottom2.chSprite.chHomestays</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SW']/div/div[2]/div/div/nav/ul/li[3]/span/a/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Homestays &amp; Villas&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>da2982b8-eed5-4d5c-aedd-df87d9bc9529</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chNavIcon appendBottom2 chSprite chHomestays</value>
+      <webElementGuid>6b8be06c-fae5-4b87-bdb1-a25b7659cfb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[text()='Hotels'])[1]</value>
+      <webElementGuid>12d5e452-335d-4b14-959e-e5917df113f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SW']/div/div[2]/div/div/nav/ul/li[3]/span/a/span/span</value>
+      <webElementGuid>62fe7923-a649-4635-a86d-582b647c22aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span/a/span/span</value>
+      <webElementGuid>e74da917-5bc8-41ac-8f40-c61349e2b3d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

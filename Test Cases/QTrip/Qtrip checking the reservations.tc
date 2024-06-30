@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Qtrip checking the reservations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>11ff8a69-6593-453f-b2da-e0ffe8a187b3</testCaseGuid>
+</TestCaseEntity>

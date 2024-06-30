@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Qtrip Create new user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>59cbd594-cfc2-4c29-8693-7bcf9c19e404</testCaseGuid>
+</TestCaseEntity>

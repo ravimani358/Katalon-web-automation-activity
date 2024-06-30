@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User can able to enter mobile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f31a126c-1d26-444c-8f46-793a3f3c8e48</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Start Here_absolute h-2.5px w-23px roun_efecca</name>
+   <tag></tag>
+   <elementGuidId>ac2aee4d-2f45-4c41-89e9-91e5d3ee6ced</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='site-header-mobile-nav-trigger']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Open navigation&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ed5ce173-e433-436d-bd5f-51aedfac99cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute h-[2.5px] w-[23px] rounded-full top-1/2 left-1/2 transition-all duration-300 bg-black</value>
+      <webElementGuid>9a622fb8-383b-472c-a1f9-0702bba5108e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header-mobile-nav-trigger&quot;)/div[@class=&quot;absolute h-[2.5px] w-[23px] rounded-full top-1/2 left-1/2 transition-all duration-300 bg-black&quot;]</value>
+      <webElementGuid>a7f9a928-f9c4-4330-ba58-71d3b83b938b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='site-header-mobile-nav-trigger']/div[2]</value>
+      <webElementGuid>f08d5007-440a-4836-ae7a-54fe2350e009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div[2]</value>
+      <webElementGuid>c27df420-1ac3-4780-b736-2911d920d33c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

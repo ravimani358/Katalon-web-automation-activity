@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>QKart login and logout function</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b1461e0-e19b-45f5-9cf9-afacfb3c24b7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Company Name_companyName</name>
+   <tag></tag>
+   <elementGuidId>4783f490-6089-4dc2-8159-06211782f51a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;companyName&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='companyName']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Company Name&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>56d7a377-a7a8-47e2-b4c1-f6947b4759bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>companyName</value>
+      <webElementGuid>57832287-0986-4d2a-a710-678a023a73f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-2 rounded-lg px-[16px] pt-[17px] pb-[19px]  leading-none focus:border-blue transition-all duration-300 shadow-[0px_0px_0px_0px_rgba(7,65,203,0.15)] focus:shadow-[0px_0px_0px_4px_rgba(7,65,203,0.15)] outline-none</value>
+      <webElementGuid>4298d391-f105-47f9-be98-47579bcaae98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Company Name</value>
+      <webElementGuid>cd424b61-456c-4f04-a666-0fff32b85340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;scroll-smooth&quot;]/body[@class=&quot;has-scrollbar ReactModal__Body--open&quot;]/div[@class=&quot;ReactModalPortal&quot;]/div[@class=&quot;ReactModal__Overlay ReactModal__Overlay--after-open&quot;]/div[@class=&quot;ReactModal__Content ReactModal__Content--after-open&quot;]/div[@class=&quot;bg-blue h-full flex flex-col h-full max-h-full overflow-hidden&quot;]/div[@class=&quot;bg-white relative flex flex-col flex-1 overflow-hidden h-[100%] max-h-[100%]&quot;]/div[@class=&quot;overflow-auto min-h-[100%] max-h-[100%] block&quot;]/div[@class=&quot;py-32 lg:py-40&quot;]/div[@class=&quot;container grid-layout gap-x-16&quot;]/div[@class=&quot;grid-col-span-4 md:grid-col-span-3 mt-12 md:mt-0&quot;]/form[2]/div[@class=&quot;grid lg:grid-cols-2 gap-y-2 md:gap-y-3 gap-x-2 md:gap-x-5 mt-8 lg:mt-0&quot;]/fieldset[@class=&quot;flex flex-col mb-6 last:mb-0 min-w-0&quot;]/div[2]/div[@class=&quot;flex flex-col relative&quot;]/input[@class=&quot;border-2 rounded-lg px-[16px] pt-[17px] pb-[19px]  leading-none focus:border-blue transition-all duration-300 shadow-[0px_0px_0px_0px_rgba(7,65,203,0.15)] focus:shadow-[0px_0px_0px_4px_rgba(7,65,203,0.15)] outline-none&quot;]</value>
+      <webElementGuid>d6778d4f-041f-4268-b27c-f34feecb3f2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='companyName']</value>
+      <webElementGuid>32bb6bdf-5353-4a35-8bf2-4fcf4b59dfb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/fieldset/div[2]/div/input</value>
+      <webElementGuid>92a4be8b-a0db-4ad5-bb84-48d9e377c4fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'companyName' and @placeholder = 'Company Name']</value>
+      <webElementGuid>775966c7-9953-438b-8278-e3d3b8800038</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

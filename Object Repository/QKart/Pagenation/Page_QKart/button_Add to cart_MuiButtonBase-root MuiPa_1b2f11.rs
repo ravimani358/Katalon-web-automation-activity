@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add to cart_MuiButtonBase-root MuiPa_1b2f11</name>
+   <tag></tag>
+   <elementGuidId>0e6ddbc8-ba16-44c7-bdb3-5e34fcdcf87a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(4) > button.MuiButtonBase-root.MuiPaginationItem-root.MuiPaginationItem-sizeLarge.MuiPaginationItem-text.MuiPaginationItem-circular.MuiPaginationItem-previousNext.css-19f5xy7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[20]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Go to next page&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d0df81ac-2e54-451d-9631-b8f049cb1cd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-sizeLarge MuiPaginationItem-text MuiPaginationItem-circular MuiPaginationItem-previousNext css-19f5xy7</value>
+      <webElementGuid>e315e028-7ed6-4ac1-ac4b-6d899dc901f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>7c4a6d55-e7aa-4bb8-a0eb-e4407f38a5b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e94a824e-b8db-4de4-bfbf-0ca3f56d3b40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Go to next page</value>
+      <webElementGuid>68ba3076-1688-4a21-81c3-b005e17b19c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[@class=&quot;css-ikzlcq&quot;]/nav[@class=&quot;MuiPagination-root MuiPagination-text css-0&quot;]/ul[@class=&quot;MuiPagination-ul css-nhb8h9&quot;]/li[4]/button[@class=&quot;MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-sizeLarge MuiPaginationItem-text MuiPaginationItem-circular MuiPaginationItem-previousNext css-19f5xy7&quot;]</value>
+      <webElementGuid>eaaf5d4b-f71a-4904-8e5f-ee5ca1bbd4cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[20]</value>
+      <webElementGuid>a7f3a1e2-b999-4cc3-8c28-e5bda7bdb267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[4]/nav/ul/li[4]/button</value>
+      <webElementGuid>bab608ef-d5de-4f67-ba8a-50f1402cae80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[12]/following::button[4]</value>
+      <webElementGuid>4e92aa9f-36de-47ab-b959-903c4fb1535d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[11]/following::button[5]</value>
+      <webElementGuid>7f360339-7697-42cb-bc70-7c931c42ddff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy policy'])[1]/preceding::button[1]</value>
+      <webElementGuid>a19b1dea-a838-4620-bb4f-22cb243e5ce9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About us'])[1]/preceding::button[1]</value>
+      <webElementGuid>8ab8ae8a-9e6d-4847-a654-7527cb30d94d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/button</value>
+      <webElementGuid>0ed1c1c4-1b44-47b3-ad8f-e6c6e341d4a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>2c8a2949-01ba-42ee-9aa1-7e96f1848b42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

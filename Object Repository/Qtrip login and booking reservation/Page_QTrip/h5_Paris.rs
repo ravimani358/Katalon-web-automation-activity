@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Paris</name>
+   <tag></tag>
+   <elementGuidId>f706749f-4cf6-4a09-b06d-32d9b13a3274</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#paris > div.tile > div.tile-text.text-center > h5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='paris']/div/div/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Paris 100+ Places&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>0af7a755-a5bc-4f26-8ffe-29211f0d2714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Paris</value>
+      <webElementGuid>cadf2ea0-20ea-4332-ab31-7f0ba3c673e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paris&quot;)/div[@class=&quot;tile&quot;]/div[@class=&quot;tile-text text-center&quot;]/h5[1]</value>
+      <webElementGuid>30c9d89b-9bbe-475b-a04d-9531e20488d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='paris']/div/div/h5</value>
+      <webElementGuid>71ad29ac-4557-49ce-9f31-981c7d420668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New York'])[1]/following::h5[1]</value>
+      <webElementGuid>b0ac60a0-1178-48fa-b618-d5e78533c5e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bangkok'])[1]/following::h5[2]</value>
+      <webElementGuid>d2699b8e-aad5-42ce-b51a-1b6e1349572e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© QTrip 2022'])[1]/preceding::h5[1]</value>
+      <webElementGuid>42412eba-be5e-436e-bb10-775d41ac2811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Paris']/parent::*</value>
+      <webElementGuid>c81e28c5-4898-48bb-bc5b-7913fde03889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/a/div/div/h5</value>
+      <webElementGuid>bd0e54a2-5d7a-4727-801f-605bd61a4833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Paris' or . = 'Paris')]</value>
+      <webElementGuid>de489aaa-9a1a-44ad-81da-86c66ceb659d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

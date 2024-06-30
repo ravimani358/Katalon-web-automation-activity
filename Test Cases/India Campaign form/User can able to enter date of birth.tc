@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User can able to enter date of birth</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>807f99dd-d43b-4dfe-8578-526d75bbcdbf</testCaseGuid>
+</TestCaseEntity>

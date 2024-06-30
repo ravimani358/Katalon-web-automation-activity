@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>QKart login to message displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f9ed784-739b-4144-be38-1201c1c8fd7b</testCaseGuid>
+</TestCaseEntity>

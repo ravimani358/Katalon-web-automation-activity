@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Phone Number_phone</name>
+   <tag></tag>
+   <elementGuidId>0279e506-fd3a-44a0-9f4e-090ee0345029</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;phone&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='phone']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Phone Number&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5f43edac-5b20-4a27-b1e0-d03dc39197ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>phone</value>
+      <webElementGuid>e23a6c0b-1215-4bb6-9eb2-de7627257ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-2 rounded-lg px-[16px] pt-[17px] pb-[19px]  leading-none focus:border-blue transition-all duration-300 shadow-[0px_0px_0px_0px_rgba(7,65,203,0.15)] focus:shadow-[0px_0px_0px_4px_rgba(7,65,203,0.15)] outline-none</value>
+      <webElementGuid>01e301f8-1bc4-4d83-8114-96656c443053</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>phone</value>
+      <webElementGuid>f862a187-3a6f-49b1-8b8e-f45b3c414fc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Phone Number</value>
+      <webElementGuid>ae96586a-a458-4d11-aa0c-8b4ac4974194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;scroll-smooth&quot;]/body[@class=&quot;has-scrollbar ReactModal__Body--open&quot;]/div[@class=&quot;ReactModalPortal&quot;]/div[@class=&quot;ReactModal__Overlay ReactModal__Overlay--after-open&quot;]/div[@class=&quot;ReactModal__Content ReactModal__Content--after-open&quot;]/div[@class=&quot;bg-blue h-full flex flex-col h-full max-h-full overflow-hidden&quot;]/div[@class=&quot;bg-white relative flex flex-col flex-1 overflow-hidden h-[100%] max-h-[100%]&quot;]/div[@class=&quot;overflow-auto min-h-[100%] max-h-[100%] block&quot;]/div[@class=&quot;py-32 lg:py-40&quot;]/div[@class=&quot;container grid-layout gap-x-16&quot;]/div[@class=&quot;grid-col-span-4 md:grid-col-span-3 mt-12 md:mt-0&quot;]/form[2]/div[@class=&quot;grid lg:grid-cols-2 gap-y-2 md:gap-y-3 gap-x-2 md:gap-x-5 mt-8 lg:mt-0&quot;]/fieldset[@class=&quot;flex flex-col mb-6 last:mb-0 min-w-0&quot;]/div[2]/div[@class=&quot;flex flex-col relative&quot;]/input[@class=&quot;border-2 rounded-lg px-[16px] pt-[17px] pb-[19px]  leading-none focus:border-blue transition-all duration-300 shadow-[0px_0px_0px_0px_rgba(7,65,203,0.15)] focus:shadow-[0px_0px_0px_4px_rgba(7,65,203,0.15)] outline-none&quot;]</value>
+      <webElementGuid>ea922b45-fa23-4037-8d1f-eff5a8c8588c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='phone']</value>
+      <webElementGuid>3ab0b395-3df5-4f69-ac24-7015216c326b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/fieldset[2]/div[2]/div/input</value>
+      <webElementGuid>e26dcaaa-2209-4006-820f-9763a1d928f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'phone' and @type = 'phone' and @placeholder = 'Phone Number']</value>
+      <webElementGuid>638ffe63-7b6a-4425-a0ba-45fb9354d62d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

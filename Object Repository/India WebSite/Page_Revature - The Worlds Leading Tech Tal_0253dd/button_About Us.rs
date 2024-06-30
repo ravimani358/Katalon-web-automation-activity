@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_About Us</name>
+   <tag></tag>
+   <elementGuidId>3b0966a3-6cf2-4c26-ad96-571e87e8f04d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#site-header-nav-about-us-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='site-header-nav-about-us-2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;About Us&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2612f624-686e-4b44-8a6c-92a44ce08117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-2 px-7 rounded-full uppercase tracking-[.14em] outline-none</value>
+      <webElementGuid>8ca4db4e-dec1-4592-8b1c-040899777939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>site-header-nav-about-us-2</value>
+      <webElementGuid>b0b6beef-cb8b-42f0-8059-b671f44c786a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>About Us</value>
+      <webElementGuid>bdeff38e-f4fe-4d4e-928c-d1e23ff0a733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header-nav-about-us-2&quot;)</value>
+      <webElementGuid>fee202a0-38d1-4353-8cb8-a05c675c3780</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='site-header-nav-about-us-2']</value>
+      <webElementGuid>ae3a8fd7-99ab-4d7e-ad4a-5e048b41ef03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/nav/div/div/div[2]/div/ul/li[3]/button</value>
+      <webElementGuid>bd1c3a25-bcb9-4f5f-b1bd-d602c6de6b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Hired'])[1]/following::button[1]</value>
+      <webElementGuid>fb2966a9-14da-4a2d-bab0-076910829577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/following::button[2]</value>
+      <webElementGuid>4099af82-f72d-4bfc-8192-0c1bf944a0ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources'])[1]/preceding::button[1]</value>
+      <webElementGuid>f69d0bf4-bcd0-465e-8c93-74e3ed9f3447</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GenAI'])[1]/preceding::button[2]</value>
+      <webElementGuid>51bf3256-f50a-4428-8daf-45f96dd525e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='About Us']/parent::*</value>
+      <webElementGuid>3f1b0d4f-cc1f-475f-92a2-460734495854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/button</value>
+      <webElementGuid>db663d77-f9ef-410e-9543-63a3ce4707bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'site-header-nav-about-us-2' and (text() = 'About Us' or . = 'About Us')]</value>
+      <webElementGuid>b42b7151-b7e9-44ba-a463-82e1149fc286</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

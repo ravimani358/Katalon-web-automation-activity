@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Start Here</name>
+   <tag></tag>
+   <elementGuidId>49033d24-97ed-45bb-b33e-634e986d46c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/nav/div/div/div[3]/button/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;nav-get-started-button&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>93e0482e-db4c-493c-a662-4541dbd44f24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start Here</value>
+      <webElementGuid>93370fda-5cef-4cd4-9bea-a025fe4d3e75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/nav[@class=&quot;fixed w-full z-30 pointer-events-none&quot;]/div[@class=&quot;w-full max-w-[1480px] mx-auto px-6 sm:px-8 md:px-16&quot;]/div[@class=&quot;grid grid-cols-[auto_auto] lg:grid-cols-[174px_1fr_174px] gap-x-4 items-center justify-between py-7 md:py-12&quot;]/div[@class=&quot;justify-end hidden lg:flex pointer-events-auto&quot;]/button[@class=&quot;inline-block group relative rounded-full uppercase leading-none shadow whitespace-nowrap tracking-[0.19em] font-sans font-semibold overflow-hidden hover:scale-[1.05] duration-300 transition-transform user-select-none bg-yellow text-black&quot;]/div[1]/div[@class=&quot;flex items-center justify-center px-9 pt-4 pb-[18px] absolute top-0 left-0 w-full h-full clip-path-polygon-[0%_0%,_0%_0%,_0%_100%,_0%_100%] group-hover:clip-path-polygon-[0px_0px,_100%_0px,_100%_100%,_0px_100%] transition-all duration-500 bg-[#fff]&quot;]/span[1]</value>
+      <webElementGuid>369fa7da-58ee-4a63-9649-82bcb6d867c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/nav/div/div/div[3]/button/div/div[2]/span</value>
+      <webElementGuid>2c778ab0-0270-4eb2-9fed-3acf7b0853d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Here'])[1]/following::span[1]</value>
+      <webElementGuid>6be755e6-7016-40af-a2a3-f61822fcc8b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Understand the impact Revature clients have in these case studies.'])[1]/following::span[2]</value>
+      <webElementGuid>22a3a004-4a02-4135-8baa-78d6c8e243c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='your future'])[1]/preceding::span[3]</value>
+      <webElementGuid>2638931d-dfb6-4b89-8d59-44ba33232175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/span</value>
+      <webElementGuid>5b6e1e28-5025-42ca-b425-1acc6e98d34c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Start Here' or . = 'Start Here')]</value>
+      <webElementGuid>ceab234e-b158-43eb-a65e-f44b982db3fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

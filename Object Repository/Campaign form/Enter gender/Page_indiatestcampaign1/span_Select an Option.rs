@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select an Option</name>
+   <tag></tag>
+   <elementGuidId>6e73b9ac-8a3a-47e5-b974-e278c1e8cc09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#combobox-button-77 > span.slds-truncate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='combobox-button-77']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox[name=&quot;Gender&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>688d6823-38ee-4f9f-80f8-5bb9e3d7fa16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate</value>
+      <webElementGuid>a261b9e2-19ed-4acf-95c9-a4d8eeeea925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select an Option</value>
+      <webElementGuid>e681ba75-3c80-4801-a18b-2e08ea31f6dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;combobox-button-77&quot;)/span[@class=&quot;slds-truncate&quot;]</value>
+      <webElementGuid>38d72161-e8e0-4092-8b8d-eaf5944c9c18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='combobox-button-77']/span</value>
+      <webElementGuid>d64f5f47-0a11-42ab-bf4f-3efa243c3068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::span[1]</value>
+      <webElementGuid>dd109a64-4496-4c8d-b736-989cbdf8c970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/preceding::span[2]</value>
+      <webElementGuid>2587deb7-1a14-4d2c-a0a8-ca552a3f38ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select an Option']/parent::*</value>
+      <webElementGuid>205347a6-1d5f-4f52-a15b-dd0d7cb25b1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button/span</value>
+      <webElementGuid>478de740-d048-465a-afd1-ac20a48d73ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select an Option' or . = 'Select an Option')]</value>
+      <webElementGuid>ffe94721-a3ed-40d9-afae-681168ee1a91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
