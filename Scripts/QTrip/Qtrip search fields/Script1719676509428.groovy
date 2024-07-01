@@ -21,22 +21,26 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://qtripdynamic-qa-frontend.vercel.app/')
 
-WebUI.setText(findTestObject('Object Repository/Qtrip search fields/Page_QTrip/input_Welcome to QTrip_autocomplete'), 'goa')
+WebUI.setText(findTestObject('Object Repository/Qtrip search fields/Page_QTrip/input_Welcome to QTrip_autocomplete'), findTestData(
+        '2nd Data file').getValue(1, 1))
 
 WebUI.clearText(findTestObject('Object Repository/Qtrip search fields/Page_QTrip/input_Welcome to QTrip_autocomplete'), 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/Qtrip search fields/Page_QTrip/input_Welcome to QTrip_autocomplete'), 'goa')
+WebUI.setText(findTestObject('Object Repository/Qtrip search fields/Page_QTrip/input_Welcome to QTrip_autocomplete'), findTestData(
+        '2nd Data file').getValue(1, 2))
 
 WebUI.clearText(findTestObject('Object Repository/Qtrip search fields/Page_QTrip/input_Welcome to QTrip_autocomplete'), 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/Qtrip search fields/Page_QTrip/input_Welcome to QTrip_autocomplete'), 'kolkata')
+WebUI.setText(findTestObject('Object Repository/Qtrip search fields/Page_QTrip/input_Welcome to QTrip_autocomplete'), findTestData(
+        '2nd Data file').getValue(1, 3))
 
 WebUI.clearText(findTestObject('Object Repository/Qtrip search fields/Page_QTrip/input_Welcome to QTrip_autocomplete'), 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/Qtrip search fields/Page_QTrip/input_Welcome to QTrip_autocomplete'), 'bengaluru')
+WebUI.setText(findTestObject('Object Repository/Qtrip search fields/Page_QTrip/input_Welcome to QTrip_autocomplete'), findTestData(
+        '2nd Data file').getValue(1, 4))
 
 WebUI.clearText(findTestObject('Object Repository/Qtrip search fields/Page_QTrip/input_Welcome to QTrip_autocomplete'), 
     FailureHandling.STOP_ON_FAILURE)

@@ -6,4 +6,43 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>8ac6c608-d803-4d2c-81db-117650accd67</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d36ced10-22c3-4afb-9724-7104d803124f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5244304d-1d04-457a-a6de-9fd0ab18a276</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2bd9d061-3862-4663-bcc2-4d1f86522151</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ravimani358@yopmail.com.admin'</defaultValue>
+      <description></description>
+      <id>d36ced10-22c3-4afb-9724-7104d803124f</id>
+      <masked>false</masked>
+      <name>User_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'ravimani358'</defaultValue>
+      <description></description>
+      <id>5244304d-1d04-457a-a6de-9fd0ab18a276</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'address of the shipping place'</defaultValue>
+      <description></description>
+      <id>2bd9d061-3862-4663-bcc2-4d1f86522151</id>
+      <masked>false</masked>
+      <name>Address</name>
+   </variable>
 </TestCaseEntity>

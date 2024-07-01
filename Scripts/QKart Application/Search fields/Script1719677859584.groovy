@@ -21,15 +21,33 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://crio-qkart-frontend-qa.vercel.app/')
 
-WebUI.setText(findTestObject('Object Repository/QKart/Search fields/Page_QKart/input__search'), 'watch')
+WebUI.setText(findTestObject('Object Repository/QKart/Search fields/Page_QKart/input__search'), Search_1st_product)
 
 WebUI.clearText(findTestObject('Object Repository/QKart/Search fields/Page_QKart/input__search'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/QKart/Search fields/Page_QKart/input__search'), 'Yonex')
+WebUI.setText(findTestObject('Object Repository/QKart/Search fields/Page_QKart/input__search'), Search_2nd_product)
 
 WebUI.clearText(findTestObject('Object Repository/QKart/Search fields/Page_QKart/input__search'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/QKart/Search fields/Page_QKart/input__search'), 'shoes')
+WebUI.setText(findTestObject('Object Repository/QKart/Search fields/Page_QKart/input__search'), Search_3rd_product)
 
-WebUI.clearText(findTestObject('Object Repository/QKart/Search fields/Page_QKart/input__search'), FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/QKart/QKart add shipping address/Page_QKart/button_Add to cart'))
+
+WebUI.click(findTestObject('Object Repository/QKart/QKart add shipping address/Page_QKart/svg_Checkout_MuiSvgIcon-root MuiSvgIcon-fon_590488'))
+
+WebUI.click(findTestObject('Object Repository/QKart/QKart add shipping address/Page_QKart/button_Add new address'))
+
+WebUI.setText(findTestObject('Object Repository/QKart/QKart add shipping address/Page_QKart/textarea_address of the shipping place'), 
+    Address)
+
+WebUI.waitForElementClickable(findTestObject('Object Repository/QKart/QKart add shipping address/Page_QKart/button_Add'), 
+    3)
+
+WebUI.click(findTestObject('Object Repository/QKart/QKart add shipping address/Page_QKart/button_Add'))
+
+WebUI.click(findTestObject('Object Repository/QKart/QKart add shipping address/Page_QKart/input_Shipping_address'))
+
+WebUI.click(findTestObject('QKart/QKart add shipping address/Page_QKart/Place order button'))
 

@@ -25,10 +25,11 @@ WebUI.switchToWindowTitle('QTrip')
 
 WebUI.click(findTestObject('Object Repository/Qtrip login and booking reservation/Page_QTrip/a_Login Here'))
 
-WebUI.setText(findTestObject('Object Repository/Qtrip login and booking reservation/Page_QTrip/input_Login_email'), 'ravimani358@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Qtrip login and booking reservation/Page_QTrip/input_Login_email'), findTestData(
+        '3rd Data file').getValue(1, 1))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Qtrip login and booking reservation/Page_QTrip/input_Email address_password'), 
-    'y4pbWpkRAh6YPT4LeqmmmQ==')
+WebUI.setText(findTestObject('Object Repository/Qtrip login and booking reservation/Page_QTrip/input_Email address_password'), 
+    findTestData('3rd Data file').getValue(2, 1))
 
 WebUI.click(findTestObject('Object Repository/Qtrip login and booking reservation/Page_QTrip/button_Login to QTrip'))
 
@@ -43,14 +44,15 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Qtrip login and bo
     3)
 
 WebUI.setText(findTestObject('Object Repository/Qtrip login and booking reservation/Page_QTrip adventures/input_Name_name'), 
-    'Ravisankar N')
+    findTestData('3rd Data file').getValue(3, 1))
 
 WebUI.click(findTestObject('Qtrip login and booking reservation/pick a date'))
 
-WebUI.sendKeys(findTestObject('Qtrip login and booking reservation/pick a date'), '07/21/2024')
+WebUI.sendKeys(findTestObject('Qtrip login and booking reservation/pick a date'), findTestData('3rd Data file').getValue(
+        4, 1))
 
 WebUI.setText(findTestObject('Object Repository/Qtrip login and booking reservation/Page_QTrip adventures/input__person'), 
-    '1')
+    findTestData('3rd Data file').getValue(5, 1))
 
 WebUI.click(findTestObject('Object Repository/Qtrip login and booking reservation/Page_QTrip adventures/button_Reserve'))
 

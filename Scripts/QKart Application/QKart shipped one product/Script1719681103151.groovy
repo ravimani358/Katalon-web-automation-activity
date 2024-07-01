@@ -25,10 +25,9 @@ WebUI.switchToWindowTitle('QKart')
 
 WebUI.click(findTestObject('Object Repository/QKart/QKart add shipping address/Page_QKart/button_Login'))
 
-WebUI.setText(findTestObject('Object Repository/QKart/QKart add shipping address/Page_QKart/input_Username_username'), 'ravimani358@yopmail.com.admin')
+WebUI.setText(findTestObject('Object Repository/QKart/QKart add shipping address/Page_QKart/input_Username_username'), User_name)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/QKart/QKart add shipping address/Page_QKart/input_Password_password'), 
-    'y4pbWpkRAh6YPT4LeqmmmQ==')
+WebUI.setText(findTestObject('Object Repository/QKart/QKart add shipping address/Page_QKart/input_Password_password'), Password)
 
 WebUI.click(findTestObject('Object Repository/QKart/QKart add shipping address/Page_QKart/button_Login to QKart'))
 
@@ -39,7 +38,7 @@ WebUI.click(findTestObject('Object Repository/QKart/QKart add shipping address/P
 WebUI.click(findTestObject('Object Repository/QKart/QKart add shipping address/Page_QKart/button_Add new address'))
 
 WebUI.setText(findTestObject('Object Repository/QKart/QKart add shipping address/Page_QKart/textarea_address of the shipping place'), 
-    'address of the shipping place')
+    Address)
 
 WebUI.waitForElementClickable(findTestObject('Object Repository/QKart/QKart add shipping address/Page_QKart/button_Add'), 
     3)

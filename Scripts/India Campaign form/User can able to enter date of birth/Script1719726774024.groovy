@@ -22,13 +22,13 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('https://rev2--qa.sandbox.my.site.com/RevatureIndiaRecruitment/s/indiatestcampaign1')
 
 WebUI.setText(findTestObject('Object Repository/Campaign form/Campaign mobile number/Page_indiatestcampaign1/input__input-4'), 
-    'test contact')
+    GlobalVariable.First_name)
 
 WebUI.setText(findTestObject('Object Repository/Campaign form/Campaign mobile number/Page_indiatestcampaign1/input__input-6'), 
-    '1tsting')
+    GlobalVariable.Last_name)
 
 WebUI.setText(findTestObject('Object Repository/Campaign form/India campaign form/Page_indiatestcampaign1/input__input-8'), 
-    'emailravi@yopmail.com')
+    GlobalVariable.Email)
 
 WebUI.waitForElementVisible(findTestObject('Campaign form/India campaign form/Page_indiatestcampaign1/button_Verify Email'), 
     3)
@@ -37,7 +37,7 @@ WebUI.verifyElementPresent(findTestObject('Campaign form/India campaign form/Pag
     3)
 
 WebUI.setText(findTestObject('Object Repository/Campaign form/Campaign mobile number/Page_indiatestcampaign1/input__input-10'), 
-    '8877667733')
+    GlobalVariable.Mobile)
 
 WebUI.waitForElementNotVisible(findTestObject('Object Repository/Campaign form/Campaign mobile number/Page_indiatestcampaign1/button_Verify Phone'), 
     3)
@@ -47,5 +47,5 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Campaign form/Campa
 
 WebUI.scrollToElement(findTestObject('Campaign form/Date of birth'), 3)
 
-WebUI.sendKeys(findTestObject('Campaign form/Date of birth'), '02 Jul 2024')
+WebUI.sendKeys(findTestObject('Campaign form/Date of birth'), GlobalVariable.Date_of_birth)
 

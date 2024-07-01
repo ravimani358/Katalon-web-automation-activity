@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__mailpoet_submit</name>
+   <tag></tag>
+   <elementGuidId>9d7340b8-da7d-4c9f-a94f-121de2403d20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.mailpoet_submit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Get XPath cheat sheet']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Get XPath cheat sheet&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>de5f1750-3a9c-439a-bb11-e903b959c47e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>5f844fc4-f94b-4337-b8a2-aebfbfe96792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mailpoet_submit</value>
+      <webElementGuid>93869624-30e2-4ce4-be47-c6775c7b9e5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Get XPath cheat sheet</value>
+      <webElementGuid>b2821843-1255-4ff4-b4c0-249588565b39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation-id</name>
+      <type>Main</type>
+      <value>subscribe-submit-button</value>
+      <webElementGuid>614aaf6d-28c4-4113-aa7e-0a3f4405d14b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mp_form_below_posts7&quot;)/form[@class=&quot;mailpoet_form mailpoet_form_form mailpoet_form_below_posts&quot;]/div[@class=&quot;mailpoet_paragraph&quot;]/input[@class=&quot;mailpoet_submit&quot;]</value>
+      <webElementGuid>f8fb15f6-50e8-496a-9351-b5d089506f45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Get XPath cheat sheet']</value>
+      <webElementGuid>0ccff16a-6a57-488c-bc24-32850879f7e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mp_form_below_posts7']/form/div[3]/input</value>
+      <webElementGuid>aa256012-b7cf-4736-9a65-9df9969c20b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>9b310629-b5a5-47f5-87e7-9b9ae51f8fe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>bcd663ed-02ec-4e93-879a-34772cc4ce24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

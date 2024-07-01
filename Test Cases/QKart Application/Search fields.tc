@@ -6,4 +6,43 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>ad87e79f-ab4b-4fc1-ac35-b898a88da60d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>756d3809-f731-4c77-9c8b-c557bde3eda7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f36e1e09-31ba-43a2-9708-153a72a371a9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5a78e531-590d-49b3-8411-1bac2bbd1f0d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'watch'</defaultValue>
+      <description></description>
+      <id>756d3809-f731-4c77-9c8b-c557bde3eda7</id>
+      <masked>false</masked>
+      <name>Search_1st_product</name>
+   </variable>
+   <variable>
+      <defaultValue>'Yonex'</defaultValue>
+      <description></description>
+      <id>f36e1e09-31ba-43a2-9708-153a72a371a9</id>
+      <masked>false</masked>
+      <name>Search_2nd_product</name>
+   </variable>
+   <variable>
+      <defaultValue>'shoes'</defaultValue>
+      <description></description>
+      <id>5a78e531-590d-49b3-8411-1bac2bbd1f0d</id>
+      <masked>false</masked>
+      <name>Search_3rd_product</name>
+   </variable>
 </TestCaseEntity>

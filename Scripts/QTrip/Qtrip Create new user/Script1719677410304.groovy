@@ -23,20 +23,22 @@ WebUI.navigateToUrl('https://qtripdynamic-qa-frontend.vercel.app/')
 
 WebUI.click(findTestObject('Object Repository/Qtrip create new user/Page_QTrip/a_Register'))
 
-WebUI.setText(findTestObject('Object Repository/Qtrip create new user/Page_QTrip/input_Register_email'), 'ravi97691@yopmail.com')
+WebUI.setText(findTestObject('Object Repository/Qtrip create new user/Page_QTrip/input_Register_email'), findTestData('1st Data file').getValue(
+        1, 1))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Qtrip create new user/Page_QTrip/input_Email address_password'), 
-    'B2YN85tS2a2gGlKmdxn2NQ==')
+WebUI.setText(findTestObject('Object Repository/Qtrip create new user/Page_QTrip/input_Email address_password'), findTestData(
+        '1st Data file').getValue(2, 1))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Qtrip create new user/Page_QTrip/input_Type to create account password_confi_8c001e'), 
-    'B2YN85tS2a2gGlKmdxn2NQ==')
+WebUI.setText(findTestObject('Object Repository/Qtrip create new user/Page_QTrip/input_Type to create account password_confi_8c001e'), 
+    findTestData('1st Data file').getValue(3, 1))
 
 WebUI.click(findTestObject('Object Repository/Qtrip create new user/Page_QTrip/button_Register Now'))
 
-WebUI.setText(findTestObject('Object Repository/Qtrip create new user/Page_QTrip/input_Register_email'), 'ravi97691@yopmail.com')
+WebUI.setText(findTestObject('Object Repository/Qtrip create new user/Page_QTrip/input_Register_email'), findTestData('1st Data file').getValue(
+        4, 1))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Qtrip create new user/Page_QTrip/input_Email address_password_1'), 
-    'B2YN85tS2a2gGlKmdxn2NQ==')
+WebUI.setText(findTestObject('Object Repository/Qtrip create new user/Page_QTrip/input_Email address_password_1'), findTestData(
+        '1st Data file').getValue(5, 1))
 
 WebUI.click(findTestObject('Object Repository/Qtrip create new user/Page_QTrip/button_Login to QTrip'))
 
