@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_valuation de PerformanceReview Summaryj_6cc468</name>
+   <tag></tag>
+   <elementGuidId>09b23728-a66b-4983-8066-1f33111b3339</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;Évaluation de PerformanceReview Summaryjahanzeb akhil khanHR ManagerNote finaleS&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>16146689-fe17-48d8-a1c6-c8e9c3d4fa25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-container</value>
+      <webElementGuid>12965fe9-0f9e-426a-a785-ab1ec1d0fcf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Évaluation de PerformanceReview Summaryjahanzeb akhil khanHR ManagerNote finaleStatut de l'ÉvaluationActivéePériode d'Évaluation2022-01-07 - 2022-30-12Date d'Échéance de l'Évaluation2022-31-12Supervisor Evaluation by StatutEvaluation ActivatedSelf Evaluation byjahanzeb khanHR ManagerStatutEvaluation ActivatedKPIsNoteCommentairesICPFormal management of staff performance and responsibilitiesMin: 0Max: 100NoteRating should be greater than or equal to 0CommenterICPPersonal Capability AchievedMin: 0Max: 100NoteCommenterICPPersonally credibleMin: 0Max: 100NoteCommenterICPPositive CommitmentMin: 0Max: 100NoteCommenterICPSuccession Plans in PlaceMin: 0Max: 100NoteCommenterGeneral Comment Annuler  Sauvegarder  Terminée OrangeHRM OS 5.6.1© 2005 - 2024 OrangeHRM, Inc. All rights reserved.</value>
+      <webElementGuid>d8cd6f04-e96e-4427-85fe-ef1096d7ef04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]</value>
+      <webElementGuid>e20fff90-3536-4798-8b6e-7e4f0b5cdc11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]</value>
+      <webElementGuid>9d11c936-093a-4208-ad62-0a9dac662fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gérer les Évaluations'])[1]/following::div[2]</value>
+      <webElementGuid>8f92b0c7-9a3c-4c5b-8350-672ee6f8b913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configurer'])[1]/following::div[2]</value>
+      <webElementGuid>b98cd0ff-ec95-4940-bbae-6dfc694efe0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]</value>
+      <webElementGuid>fec38d29-29ad-44e3-b2d1-237187738343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Évaluation de PerformanceReview Summaryjahanzeb akhil khanHR ManagerNote finaleStatut de l&quot; , &quot;'&quot; , &quot;ÉvaluationActivéePériode d&quot; , &quot;'&quot; , &quot;Évaluation2022-01-07 - 2022-30-12Date d&quot; , &quot;'&quot; , &quot;Échéance de l&quot; , &quot;'&quot; , &quot;Évaluation2022-31-12Supervisor Evaluation by StatutEvaluation ActivatedSelf Evaluation byjahanzeb khanHR ManagerStatutEvaluation ActivatedKPIsNoteCommentairesICPFormal management of staff performance and responsibilitiesMin: 0Max: 100NoteRating should be greater than or equal to 0CommenterICPPersonal Capability AchievedMin: 0Max: 100NoteCommenterICPPersonally credibleMin: 0Max: 100NoteCommenterICPPositive CommitmentMin: 0Max: 100NoteCommenterICPSuccession Plans in PlaceMin: 0Max: 100NoteCommenterGeneral Comment Annuler  Sauvegarder  Terminée OrangeHRM OS 5.6.1© 2005 - 2024 OrangeHRM, Inc. All rights reserved.&quot;) or . = concat(&quot;Évaluation de PerformanceReview Summaryjahanzeb akhil khanHR ManagerNote finaleStatut de l&quot; , &quot;'&quot; , &quot;ÉvaluationActivéePériode d&quot; , &quot;'&quot; , &quot;Évaluation2022-01-07 - 2022-30-12Date d&quot; , &quot;'&quot; , &quot;Échéance de l&quot; , &quot;'&quot; , &quot;Évaluation2022-31-12Supervisor Evaluation by StatutEvaluation ActivatedSelf Evaluation byjahanzeb khanHR ManagerStatutEvaluation ActivatedKPIsNoteCommentairesICPFormal management of staff performance and responsibilitiesMin: 0Max: 100NoteRating should be greater than or equal to 0CommenterICPPersonal Capability AchievedMin: 0Max: 100NoteCommenterICPPersonally credibleMin: 0Max: 100NoteCommenterICPPositive CommitmentMin: 0Max: 100NoteCommenterICPSuccession Plans in PlaceMin: 0Max: 100NoteCommenterGeneral Comment Annuler  Sauvegarder  Terminée OrangeHRM OS 5.6.1© 2005 - 2024 OrangeHRM, Inc. All rights reserved.&quot;))]</value>
+      <webElementGuid>6878536f-f17d-4b20-a205-5503cb8ba89c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
