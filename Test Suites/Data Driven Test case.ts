@@ -12,13 +12,13 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>9aee9b38-fb8c-48a7-ab06-c92147cc2826</testSuiteGuid>
    <testCaseLink>
-      <guid>2b693f8d-c7cc-4c5c-94b6-6ac4899980e6</guid>
+      <guid>706f04a9-f1c7-4bbf-a714-6aba5dcc9158</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/pending test cases/test case 01</testCaseId>
+      <testCaseId>Test Cases/pending test cases/Test case 01</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>816c584d-9ca5-47a7-ba4f-327c8262d9ac</id>
+         <id>c6071dce-178d-4a1a-a89d-25d088d56357</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -26,5 +26,29 @@
          <testDataId>Data Files/Data Driven data fiels</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>c6071dce-178d-4a1a-a89d-25d088d56357</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>First_Name</value>
+         <variableId>252eb610-b87c-4fbb-8d23-8db31e824a3a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c6071dce-178d-4a1a-a89d-25d088d56357</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Last_Name</value>
+         <variableId>f46e14c2-4ee8-4f5c-815f-074c45984a34</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c6071dce-178d-4a1a-a89d-25d088d56357</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>a2d2c3be-68d1-4b91-a7bd-da9c0653c69c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c6071dce-178d-4a1a-a89d-25d088d56357</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Message</value>
+         <variableId>b61f75a5-3d6f-4fa6-87b8-9cee47a7483d</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

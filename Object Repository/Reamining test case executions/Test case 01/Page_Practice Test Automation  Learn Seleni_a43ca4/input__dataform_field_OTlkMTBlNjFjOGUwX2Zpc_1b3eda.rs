@@ -6,15 +6,19 @@
    <elementGuidId>337805a2-328c-4ec1-93d9-a65f4f022c59</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#form_first_name_7</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='form_first_name_7']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='form_first_name_7']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#form_first_name_7</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,15 +33,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d700472c-ed92-4134-8686-16208244e8f9</webElementGuid>
+      <webElementGuid>c764ea0f-3669-46a1-9fc1-63204124a325</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>9c8cf777-31c4-41db-8b8a-d20552781aba</webElementGuid>
+      <webElementGuid>499db64d-20e7-44e1-a6f5-4df6be18e0a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>given-name</value>
-      <webElementGuid>1d62c7bb-23f6-495c-aebf-5b3c42b1b3a8</webElementGuid>
+      <webElementGuid>67ee9889-616c-45be-9c8c-989c524d343f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,31 +57,31 @@
       <name>class</name>
       <type>Main</type>
       <value>mailpoet_text</value>
-      <webElementGuid>690a6926-30d8-4dfe-8af5-39a2d251b684</webElementGuid>
+      <webElementGuid>55340e36-d7f8-4746-b8d6-b0c997e08870</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>form_first_name_7</value>
-      <webElementGuid>81717394-76f6-4a46-bb8a-1433b0e31231</webElementGuid>
+      <webElementGuid>e265abd2-e06c-4835-9c73-17964deae86a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
       <value>data[form_field_OTlkMTBlNjFjOGUwX2ZpcnN0X25hbWU=]</value>
-      <webElementGuid>69ea4fe5-5578-4e2c-b3eb-16a90077024e</webElementGuid>
+      <webElementGuid>cdd0e2a7-5c9c-4576-9b7c-7930c5fbedf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>title</name>
       <type>Main</type>
       <value>Name</value>
-      <webElementGuid>fadbf8e3-5e14-4658-89fc-0a559ff2e35c</webElementGuid>
+      <webElementGuid>63957271-3f28-497c-bee8-add2aef46b52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,15 +89,15 @@
       <name>data-automation-id</name>
       <type>Main</type>
       <value>form_first_name</value>
-      <webElementGuid>f13594f9-dcf2-44cf-aad5-1c340eb86d11</webElementGuid>
+      <webElementGuid>2fe142ad-b2a6-4887-a5b0-b91ef679d180</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
       <value>Name *</value>
-      <webElementGuid>2e6fff02-2dcc-442a-a7c2-845837039ac7</webElementGuid>
+      <webElementGuid>f79e5714-fda1-4bc2-a294-ad80f4671896</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +105,7 @@
       <name>data-parsley-names</name>
       <type>Main</type>
       <value>[&quot;Please specify a valid name.&quot;,&quot;Addresses in names are not permitted, please add your name instead.&quot;]</value>
-      <webElementGuid>ac5688c2-8358-4285-9d6e-755f38f5eab1</webElementGuid>
+      <webElementGuid>c87db2e0-700e-454e-a274-0cd34a8aacf8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +113,7 @@
       <name>data-parsley-required</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c0a51229-a286-4603-bd9b-c875906b1516</webElementGuid>
+      <webElementGuid>324e1d73-8332-4b07-ad1c-2c57bc738a53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +121,7 @@
       <name>data-parsley-errors-container</name>
       <type>Main</type>
       <value>.mailpoet_error_first_name_</value>
-      <webElementGuid>169f6b3c-ffd9-45ba-8295-fdffe5e894e7</webElementGuid>
+      <webElementGuid>028da068-1da9-4f9e-9656-0e0d86c8742e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,15 +129,15 @@
       <name>data-parsley-required-message</name>
       <type>Main</type>
       <value>This field is required.</value>
-      <webElementGuid>95e52215-e392-42c1-a203-e649337eab03</webElementGuid>
+      <webElementGuid>2739874a-56bc-437b-9b44-a70ebf1fc465</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;form_first_name_7&quot;)</value>
-      <webElementGuid>0fe751de-e5fb-4888-aa34-0c0480205fbb</webElementGuid>
+      <value>//input[@id='form_first_name_7']</value>
+      <webElementGuid>2ddf01f8-88e3-484a-b201-a86d76a1b851</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -141,7 +145,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='form_first_name_7']</value>
-      <webElementGuid>a0e9a85b-b7f6-4fd8-8529-ec57f95287ce</webElementGuid>
+      <webElementGuid>d2469270-18aa-49fc-8213-fa4376f09b6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +153,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mp_form_below_posts7']/form/div[2]/div/div/div/input</value>
-      <webElementGuid>c159e83a-28f8-40ce-b99c-2475be0e2913</webElementGuid>
+      <webElementGuid>4e0e2bab-1757-48ee-83e3-6d236bdae434</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +161,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>c835dea5-56e1-43c7-9336-c23be34c3372</webElementGuid>
+      <webElementGuid>a56f7bc1-94d8-4b01-9de5-68049c78092e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,6 +169,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'form_first_name_7' and @name = 'data[form_field_OTlkMTBlNjFjOGUwX2ZpcnN0X25hbWU=]' and @title = 'Name' and @placeholder = 'Name *']</value>
-      <webElementGuid>4aa1e3be-e6a3-4b11-834c-450666489490</webElementGuid>
+      <webElementGuid>789b53bd-0dd3-4070-b7e5-dd61a7cb667e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
