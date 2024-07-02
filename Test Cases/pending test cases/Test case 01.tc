@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test case 01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2fcb859c-a8a5-494a-ae92-8872d7571215</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>252eb610-b87c-4fbb-8d23-8db31e824a3a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f46e14c2-4ee8-4f5c-815f-074c45984a34</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a2d2c3be-68d1-4b91-a7bd-da9c0653c69c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b61f75a5-3d6f-4fa6-87b8-9cee47a7483d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'First name1'</defaultValue>
+      <description></description>
+      <id>252eb610-b87c-4fbb-8d23-8db31e824a3a</id>
+      <masked>false</masked>
+      <name>First_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Last name2'</defaultValue>
+      <description></description>
+      <id>f46e14c2-4ee8-4f5c-815f-074c45984a34</id>
+      <masked>false</masked>
+      <name>Last_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'name@email.com'</defaultValue>
+      <description></description>
+      <id>a2d2c3be-68d1-4b91-a7bd-da9c0653c69c</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Testing sent message'</defaultValue>
+      <description></description>
+      <id>b61f75a5-3d6f-4fa6-87b8-9cee47a7483d</id>
+      <masked>false</masked>
+      <name>Message</name>
+   </variable>
+</TestCaseEntity>
