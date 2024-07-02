@@ -17,3 +17,39 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/14th Test case/Page_OrangeHRM/input_Username_username'), 
+    'Admin')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/17 New Test case creation/14th Test case/Page_OrangeHRM/input_Password_password'), 
+    'hUKwJTbofgPU9eVlw/CnDQ==')
+
+WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/14th Test case/Page_OrangeHRM/button_Login'), 
+    'Login')
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/14th Test case/Page_OrangeHRM/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/14th Test case/Page_OrangeHRM/p_Test 68 user'))
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/14th Test case/Page_OrangeHRM/a_Support'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/14th Test case/Page_OrangeHRM/h6_Getting Started with OrangeHRM'), 
+    'Getting Started with OrangeHRM')
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/14th Test case/Page_OrangeHRM/span_Admin'))
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/14th Test case/Page_OrangeHRM/i_User Management_oxd-icon bi-chevron-down'))
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/14th Test case/Page_OrangeHRM/li_Users'))
+
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/14th Test case/Page_OrangeHRM/input_Username_oxd-input oxd-input--focus'), 
+    'user name field')
+
+WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/14th Test case/Page_OrangeHRM/button_Add'), 
+    'Add')
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/14th Test case/Page_OrangeHRM/button_Add'))
+

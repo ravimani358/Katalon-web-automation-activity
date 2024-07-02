@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ADD TO CART</name>
+   <tag></tag>
+   <elementGuidId>9a533639-6662-4e3b-a7d1-106706d7a76f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.chakra-button.css-oct0n</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.swiper-slide > div > .chakra-button >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3accd35a-578c-4b4e-ad17-f2d358d5a2e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b94e6480-24b4-405e-ab08-0d55d5d3ef21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-button css-oct0n</value>
+      <webElementGuid>2846fe7a-84e7-4527-8460-13e23d4d45cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ADD TO CART</value>
+      <webElementGuid>234fb3e6-e766-46eb-a33e-f58b9af89ea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col w-full h-screen&quot;]/main[@class=&quot;flex-auto mt-[90px] px-6 md:px-0 md:mx-auto container&quot;]/div[@class=&quot;flex flex-col h-full&quot;]/div[@class=&quot;w-full h-full flex flex-col py-10 gap-4&quot;]/div[@class=&quot;flex items-center gap-3&quot;]/div[@class=&quot;swiper swiper-initialized swiper-horizontal h-full w-full&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide max-w-[320px] swiper-slide-active&quot;]/div[@class=&quot;flex flex-col gap-2 min-w-[200px] max-w-[350px] cursor-pointer&quot;]/button[@class=&quot;chakra-button css-oct0n&quot;]</value>
+      <webElementGuid>5623189f-7353-467e-b8ed-02c9deb08a17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>5e0790bd-245f-4fc1-8aa9-00e4f153d200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div[2]/div[2]/div/div/div/div/button</value>
+      <webElementGuid>1d4aa577-80c1-4a49-a86c-d6909314afae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(12)'])[1]/following::button[1]</value>
+      <webElementGuid>5aa99a5b-020c-4c17-b91f-48307936a25a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(10)'])[1]/preceding::button[1]</value>
+      <webElementGuid>59522976-964e-4c94-8649-215d32ed775c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ADD TO CART']/parent::*</value>
+      <webElementGuid>5bbfcad7-d489-475a-b042-2295e0e09a53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button</value>
+      <webElementGuid>1ca0b50c-7a57-436c-8979-9c893c714bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'ADD TO CART' or . = 'ADD TO CART')]</value>
+      <webElementGuid>73f1ad54-a8e5-4fcd-8287-e9b3ed0f3fe4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

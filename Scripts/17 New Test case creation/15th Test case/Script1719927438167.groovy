@@ -17,3 +17,38 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/15th Test case/Page_OrangeHRM/input_Username_username'), 
+    'Admin')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/17 New Test case creation/15th Test case/Page_OrangeHRM/input_Password_password'), 
+    'hUKwJTbofgPU9eVlw/CnDQ==')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/17 New Test case creation/15th Test case/Page_OrangeHRM/button_Login'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/15th Test case/Page_OrangeHRM/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/15th Test case/Page_OrangeHRM/span_Time'))
+
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/15th Test case/Page_OrangeHRM/input'), 'Admin')
+
+WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/15th Test case/Page_OrangeHRM/button_View'), 
+    'View')
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/15th Test case/Page_OrangeHRM/span_Dashboard'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/17 New Test case creation/15th Test case/Page_OrangeHRM/p_Time at Work'), 
+    0)
+
+WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/15th Test case/Page_OrangeHRM/p_Time at Work'), 
+    'Time at Work')
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/15th Test case/Page_OrangeHRM/span_My Info'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/15th Test case/Page_OrangeHRM/a_Personal Details'), 
+    'Personal Details')
+

@@ -17,3 +17,34 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/17th Test case/Page_OrangeHRM/input_Username_username'), 
+    'Admin')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/17 New Test case creation/17th Test case/Page_OrangeHRM/input_Password_password'), 
+    'hUKwJTbofgPU9eVlw/CnDQ==')
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/17th Test case/Page_OrangeHRM/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/17th Test case/Page_OrangeHRM/span_Claim'))
+
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/17th Test case/Page_OrangeHRM/input'), 'refernce id')
+
+WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/17th Test case/Page_OrangeHRM/button_Reset'), 
+    'Reset')
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/17th Test case/Page_OrangeHRM/button_Reset'))
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/17th Test case/Page_OrangeHRM/button_Assign Claim'))
+
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/17th Test case/Page_OrangeHRM/input'), 'Employee name')
+
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/17th Test case/Page_OrangeHRM/textarea_Remarks_oxd-textarea oxd-textarea-_237541'), 
+    'remark text')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/17 New Test case creation/17th Test case/Page_OrangeHRM/button_Create'), 
+    0)
+

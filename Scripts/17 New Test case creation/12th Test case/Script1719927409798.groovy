@@ -17,3 +17,47 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.zcommerce.crio.do/signup')
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/button_Login'))
+
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/input_Email Address_email'), 
+    'test2contact2@yopmail.com')
+
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/input_Password_password'), 
+    'Password@123')
+
+WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/button_Login_1'), 
+    'Login')
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/button_Login_1'))
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/button_ADD TO CART'))
+
+WebUI.delay(6)
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/button_GO TO CART'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/button_Proceed to buy'), 
+    'Proceed to buy')
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/button_Proceed to buy'))
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/span_Payment Method'))
+
+WebUI.click(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/span_CreditDebit Card'))
+
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/input_CreditDebit Card_cardNumber'), 
+    '6677889923112233')
+
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/input_CreditDebit Card_cvv'), 
+    '987')
+
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/input_CreditDebit Card_cardHolderName'), 
+    'Ravisankar N')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/button_Add Card'), 
+    0)
+

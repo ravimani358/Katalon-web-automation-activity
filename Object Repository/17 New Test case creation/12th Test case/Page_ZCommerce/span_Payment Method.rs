@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Payment Method</name>
+   <tag></tag>
+   <elementGuidId>977c85f5-38d7-4ed9-92de-af759b329004</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='accordion-button-27']/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;2. Payment Method No Payment method selected&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4a82ffd0-b10c-41e9-a5ee-1a4607d6cdce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>underline</value>
+      <webElementGuid>7271aa67-c63b-46e5-929d-1479f446a052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Payment Method</value>
+      <webElementGuid>81ed758e-ad14-4f7d-b3d5-47fcda0d22cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordion-button-27&quot;)/div[@class=&quot;flex md:flex-row flex-col gap-4 justify-between w-full&quot;]/div[@class=&quot;font-bold text-left&quot;]/span[@class=&quot;underline&quot;]</value>
+      <webElementGuid>d7f1aa52-6211-4daf-b2d4-668ad3c4bb9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='accordion-button-27']/div/div/span[2]</value>
+      <webElementGuid>40ed8365-2a08-4fd1-9fe8-7b939621bfe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹2466.52'])[1]/following::span[2]</value>
+      <webElementGuid>862fc950-f743-47dd-a709-b38da259dcc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Payment method selected'])[1]/preceding::span[1]</value>
+      <webElementGuid>66b0ba07-f701-49ad-a968-358aec1c658a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit/Debit Card'])[1]/preceding::span[2]</value>
+      <webElementGuid>afca6acf-0ee4-4d00-b68b-eda305fb0e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Payment Method']/parent::*</value>
+      <webElementGuid>a6fcb7c3-ff73-4f43-b9fa-1da0054c0e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/div/div/span[2]</value>
+      <webElementGuid>9d6c06f9-6a2c-465c-afa8-cf26c23790f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Payment Method' or . = 'Payment Method')]</value>
+      <webElementGuid>7dca1e2b-f14b-44c0-8822-6608a2aab384</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
