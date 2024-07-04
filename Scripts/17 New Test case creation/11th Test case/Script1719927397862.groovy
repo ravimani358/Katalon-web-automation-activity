@@ -22,13 +22,13 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('https://www.zcommerce.crio.do/signup')
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/11th Test case/Page_ZCommerce/input_Name_name'), 
-    'test2contact2')
+    name)
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/11th Test case/Page_ZCommerce/input_Email Address_email'), 
-    'test2contact2@yopmail.com')
+    email)
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/11th Test case/Page_ZCommerce/input_Password_password'), 
-    'Password@123')
+    password)
 
 WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/11th Test case/Page_ZCommerce/button_Register'), 
     'Register')

@@ -10,11 +10,15 @@
          <value>(//button[@type='button'])[5]</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//button[text()=' Assign Claim ']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>div.orangehrm-header-container > button.oxd-button.oxd-button--medium.oxd-button--secondary</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,15 +33,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>42bfaabf-4e2c-42b8-b9ad-55c5a6454678</webElementGuid>
+      <webElementGuid>870e356b-ac9d-4d81-acab-e98112fd5f7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>dd40e312-ed54-4baf-9c12-19a293e0e8ba</webElementGuid>
+      <webElementGuid>57ec8e04-d57b-4d10-a8b3-970bd1b49bba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,23 +49,23 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-button oxd-button--medium oxd-button--secondary</value>
-      <webElementGuid>c799bbe9-054d-4bc6-9768-6ee2448118bf</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value> Assign Claim </value>
-      <webElementGuid>2a83058d-8873-434c-9ac5-9f9bb1042097</webElementGuid>
+      <webElementGuid>8cfa29c8-4104-4b14-b5dd-a206fc5956d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Assign Claim </value>
+      <webElementGuid>e8e5242f-bdd2-486d-b210-5bf05d784d8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;orangehrm-header-container&quot;]/button[@class=&quot;oxd-button oxd-button--medium oxd-button--secondary&quot;]</value>
-      <webElementGuid>d865fb4a-f425-4cfd-9096-b9136cd7ae44</webElementGuid>
+      <value>//button[text()=' Assign Claim ']</value>
+      <webElementGuid>e8fcb657-c188-40fb-9b7d-4b345af5677c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[5]</value>
-      <webElementGuid>3734ac9b-2735-45fd-99a5-48828aae8f3d</webElementGuid>
+      <webElementGuid>10026210-a6ee-41e0-95da-1e69bcac9228</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div[2]/div/button</value>
-      <webElementGuid>920d844a-7f78-430c-b3ab-15cf8637c1c2</webElementGuid>
+      <webElementGuid>e2d0dff6-209e-469c-a779-53f5731fd95b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>19099d28-debe-4c26-b550-f27b1fed2e07</webElementGuid>
+      <webElementGuid>65da1c9c-8341-4a99-9fe5-83f9bc1e31d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = ' Assign Claim ' or . = ' Assign Claim ')]</value>
-      <webElementGuid>f74ae5b8-af42-4f3f-84bc-0f07e966efe4</webElementGuid>
+      <webElementGuid>157fc917-d689-40d1-a3a8-888f7ef7d4e5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

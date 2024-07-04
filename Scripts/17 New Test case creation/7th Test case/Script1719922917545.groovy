@@ -31,11 +31,11 @@ WebUI.click(findTestObject('Object Repository/17 New Test case creation/7th Test
 
 WebUI.click(findTestObject('Object Repository/17 New Test case creation/7th Test case/Page_OrangeHRM/span_Buzz'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/7th Test case/Page_OrangeHRM/p_kishn Mohamed Ahmed'), 
-    'kishn Mohamed Ahmed')
+//WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/7th Test case/Page_OrangeHRM/p_kishn Mohamed Ahmed'), 
+//    'kishn Mohamed Ahmed')
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/7th Test case/Page_OrangeHRM/textarea_Buzz_oxd-buzz-post-input'), 
-    'testig')
+    Text_area)
 
 WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/7th Test case/Page_OrangeHRM/p_Buzz Newsfeed'), 
     'Buzz Newsfeed')

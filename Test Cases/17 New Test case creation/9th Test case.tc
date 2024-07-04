@@ -6,4 +6,30 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>e18857c9-deee-4859-9b7d-98658b127515</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>45efd6c1-5846-41e1-b1f6-2c0ff23b714f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3a6c57de-8cd0-4d3d-a0ce-5a0bd1a3d937</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Notes testing'</defaultValue>
+      <description></description>
+      <id>45efd6c1-5846-41e1-b1f6-2c0ff23b714f</id>
+      <masked>false</masked>
+      <name>Text_notes</name>
+   </variable>
+   <variable>
+      <defaultValue>'Finished testing'</defaultValue>
+      <description></description>
+      <id>3a6c57de-8cd0-4d3d-a0ce-5a0bd1a3d937</id>
+      <masked>false</masked>
+      <name>finished_notes</name>
+   </variable>
 </TestCaseEntity>

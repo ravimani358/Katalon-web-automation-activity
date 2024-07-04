@@ -38,18 +38,18 @@ WebUI.click(findTestObject('Object Repository/17 New Test case creation/1st Test
 WebUI.click(findTestObject('Object Repository/17 New Test case creation/1st Test case/Page_OrangeHRM/button_Add'))
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/1st Test case/Page_OrangeHRM/input_Full Name_firstName'), 
-    'Ravi')
+    First_name)
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/1st Test case/Page_OrangeHRM/input_Full Name_lastName'), 
-    'test12')
+    Last_name)
 
 WebUI.click(findTestObject('Object Repository/17 New Test case creation/1st Test case/Page_OrangeHRM/i_-- Select --_oxd-icon bi-caret-up-fill ox_627fec'))
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/1st Test case/Page_OrangeHRM/input_Keywords_oxd-input oxd-input--focus'), 
-    'key words of the process')
+    Key_word)
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/1st Test case/Page_OrangeHRM/textarea_Notes_oxd-textarea oxd-textarea--f_0ce0e8'), 
-    'Testing Notes')
+    Notes)
 
 WebUI.click(findTestObject('Object Repository/17 New Test case creation/1st Test case/Page_OrangeHRM/button_Save'))
 

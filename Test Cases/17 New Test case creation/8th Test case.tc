@@ -6,4 +6,69 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>98b392ec-b4c9-44cd-8dbe-be39079a9275</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0fd99020-4a23-4943-898b-600029a84914</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2e87e195-661b-484b-9d46-7c7e45f917de</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a37507d5-6323-432a-8cd5-9f2cc5cba9dc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d1a3d4ec-7c0e-4652-abf6-d7396211c99f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cf822dc1-8b64-4081-9537-6af46db496ef</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'employee_hints'</defaultValue>
+      <description></description>
+      <id>0fd99020-4a23-4943-898b-600029a84914</id>
+      <masked>false</masked>
+      <name>Employee_Hints</name>
+   </variable>
+   <variable>
+      <defaultValue>'EMP123'</defaultValue>
+      <description></description>
+      <id>2e87e195-661b-484b-9d46-7c7e45f917de</id>
+      <masked>false</masked>
+      <name>Emp_ID</name>
+   </variable>
+   <variable>
+      <defaultValue>'supervisor user name'</defaultValue>
+      <description></description>
+      <id>a37507d5-6323-432a-8cd5-9f2cc5cba9dc</id>
+      <masked>false</masked>
+      <name>Supervisor_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Contact first'</defaultValue>
+      <description></description>
+      <id>d1a3d4ec-7c0e-4652-abf6-d7396211c99f</id>
+      <masked>false</masked>
+      <name>First_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'last name'</defaultValue>
+      <description></description>
+      <id>cf822dc1-8b64-4081-9537-6af46db496ef</id>
+      <masked>false</masked>
+      <name>Last_name</name>
+   </variable>
 </TestCaseEntity>

@@ -6,4 +6,56 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>d63c28c5-4472-4de3-88f9-2b511811c073</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ee8c7ade-6a3c-4e51-9922-20bb69644665</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b7bfa503-1e77-479e-a151-91a2249ae0af</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eb0ef51d-19c2-446a-bbb9-5e7097d3fad4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c391675e-9dbc-4022-994e-497abc8e02c1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'contact1'</defaultValue>
+      <description></description>
+      <id>ee8c7ade-6a3c-4e51-9922-20bb69644665</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'email@yopmail.com'</defaultValue>
+      <description></description>
+      <id>b7bfa503-1e77-479e-a151-91a2249ae0af</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'company'</defaultValue>
+      <description></description>
+      <id>eb0ef51d-19c2-446a-bbb9-5e7097d3fad4</id>
+      <masked>false</masked>
+      <name>company</name>
+   </variable>
+   <variable>
+      <defaultValue>'9900123456'</defaultValue>
+      <description></description>
+      <id>c391675e-9dbc-4022-994e-497abc8e02c1</id>
+      <masked>false</masked>
+      <name>mobile</name>
+   </variable>
 </TestCaseEntity>

@@ -25,7 +25,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creat
     'Login')
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/5th Test case/Page_OrangeHRM/input_Username_username'), 
-    'Admin')
+    User_name)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/17 New Test case creation/5th Test case/Page_OrangeHRM/input_Password_password'), 
     'hUKwJTbofgPU9eVlw/CnDQ==')
@@ -37,7 +37,7 @@ WebUI.click(findTestObject('Object Repository/17 New Test case creation/5th Test
 
 WebUI.click(findTestObject('Object Repository/17 New Test case creation/5th Test case/Page_OrangeHRM/span_Directory'))
 
-WebUI.setText(findTestObject('Object Repository/17 New Test case creation/5th Test case/Page_OrangeHRM/input'), 'employee hints')
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/5th Test case/Page_OrangeHRM/input'), Employee_Hints)
 
 WebUI.click(findTestObject('Object Repository/17 New Test case creation/5th Test case/Page_OrangeHRM/div_Employee NameInvalid'))
 

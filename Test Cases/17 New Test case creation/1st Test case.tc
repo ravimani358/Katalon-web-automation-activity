@@ -6,4 +6,56 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>b60452fc-f729-48e0-a3f4-ae2c5d6df271</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b3fb16e5-df07-499f-a2d2-39688eb947bc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>151aced4-9b38-4121-a26a-10ae6ae59bd8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1839aff0-1271-4c8a-85d6-0f1de20723b8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>754c881f-0fb6-441b-a9bd-e904438009f6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Fname'</defaultValue>
+      <description></description>
+      <id>b3fb16e5-df07-499f-a2d2-39688eb947bc</id>
+      <masked>false</masked>
+      <name>First_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Lname'</defaultValue>
+      <description></description>
+      <id>151aced4-9b38-4121-a26a-10ae6ae59bd8</id>
+      <masked>false</masked>
+      <name>Last_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Key word of the system'</defaultValue>
+      <description></description>
+      <id>1839aff0-1271-4c8a-85d6-0f1de20723b8</id>
+      <masked>false</masked>
+      <name>Key_word</name>
+   </variable>
+   <variable>
+      <defaultValue>'checking notes'</defaultValue>
+      <description></description>
+      <id>754c881f-0fb6-441b-a9bd-e904438009f6</id>
+      <masked>false</masked>
+      <name>Notes</name>
+   </variable>
 </TestCaseEntity>

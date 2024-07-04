@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>1st Test suite data driven execution</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>4d233f6a-c1aa-4041-968a-65f3a02b81fc</testSuiteGuid>
+   <testCaseLink>
+      <guid>3343704f-155f-4574-9972-69de940b4ec4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/17 New Test case creation/1st Test case</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>19e8aa6c-f474-410c-a224-9dd0d3066796</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Test data run/1st tc test data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>19e8aa6c-f474-410c-a224-9dd0d3066796</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>First_name</value>
+         <variableId>b3fb16e5-df07-499f-a2d2-39688eb947bc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>19e8aa6c-f474-410c-a224-9dd0d3066796</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Last_name</value>
+         <variableId>151aced4-9b38-4121-a26a-10ae6ae59bd8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>19e8aa6c-f474-410c-a224-9dd0d3066796</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Key_word</value>
+         <variableId>1839aff0-1271-4c8a-85d6-0f1de20723b8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>19e8aa6c-f474-410c-a224-9dd0d3066796</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Notes</value>
+         <variableId>754c881f-0fb6-441b-a9bd-e904438009f6</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f408e4ba-0438-4bf9-9eb8-44764bcbda35</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/17 New Test case creation/2nd Test case</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>2056a77d-198b-4eee-bf37-d4e40d55f957</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Test data run/2nd Test case</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>2056a77d-198b-4eee-bf37-d4e40d55f957</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>First_name</value>
+         <variableId>0b1bc2d0-341b-4634-b0d2-ddcd4164bdfd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2056a77d-198b-4eee-bf37-d4e40d55f957</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Last_name</value>
+         <variableId>27b43778-8004-4c39-81e4-946a5c66d103</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2056a77d-198b-4eee-bf37-d4e40d55f957</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>a2697c5e-6253-4596-b443-cf3f2eed7803</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2056a77d-198b-4eee-bf37-d4e40d55f957</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Key_words</value>
+         <variableId>8c4e1f99-ea61-4f04-8345-2d40e8c6de92</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2056a77d-198b-4eee-bf37-d4e40d55f957</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Notes</value>
+         <variableId>90c31ecd-e6b5-41b5-87d8-3c4c031a313e</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c6243624-8f03-4250-bf7f-68ada4c11b08</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/17 New Test case creation/3rd Test case</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

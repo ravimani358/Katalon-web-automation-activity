@@ -6,4 +6,30 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>c10d3dc5-7e3f-474d-8e92-b80092aadfb3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9a1e6e29-887d-4fd9-bebd-daf09e3af2cd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c19e00ae-695c-4a54-9eb0-d42d6e8b6df3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>9a1e6e29-887d-4fd9-bebd-daf09e3af2cd</id>
+      <masked>false</masked>
+      <name>User_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'employee hints'</defaultValue>
+      <description></description>
+      <id>c19e00ae-695c-4a54-9eb0-d42d6e8b6df3</id>
+      <masked>false</masked>
+      <name>Employee_Hints</name>
+   </variable>
 </TestCaseEntity>

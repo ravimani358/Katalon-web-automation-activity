@@ -35,14 +35,14 @@ WebUI.click(findTestObject('Object Repository/17 New Test case creation/10th Tes
 WebUI.click(findTestObject('Object Repository/17 New Test case creation/10th Test case/Page_Human Resources Management Software  O_31d1a1/button_Book a Free Demo'))
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/10th Test case/Page_Book Your Free Demo  OrangeHRM/input_Full Name_FullName'), 
-    'name')
+    name)
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/10th Test case/Page_Book Your Free Demo  OrangeHRM/input_Email_Email'), 
-    'email')
+    email)
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/10th Test case/Page_Book Your Free Demo  OrangeHRM/input_Company Name_CompanyName'), 
-    'company')
+    company)
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/10th Test case/Page_Book Your Free Demo  OrangeHRM/input_Phone Number_Contact'), 
-    '8877999999')
+    mobile)
 

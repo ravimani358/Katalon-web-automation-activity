@@ -6,4 +6,43 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>a3b4ef7e-8896-4c5a-9035-fc155581342b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e6d75bb6-5609-47f9-871a-0d780e34effa</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4ed5b626-b4f9-450e-9677-cdd7fd9d9a59</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5425100c-ce94-4cfa-870d-2b6e47708eb8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'6677889923112233'</defaultValue>
+      <description></description>
+      <id>e6d75bb6-5609-47f9-871a-0d780e34effa</id>
+      <masked>false</masked>
+      <name>cardno</name>
+   </variable>
+   <variable>
+      <defaultValue>'987'</defaultValue>
+      <description></description>
+      <id>4ed5b626-b4f9-450e-9677-cdd7fd9d9a59</id>
+      <masked>false</masked>
+      <name>cvv</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ravisankar N'</defaultValue>
+      <description></description>
+      <id>5425100c-ce94-4cfa-870d-2b6e47708eb8</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
 </TestCaseEntity>

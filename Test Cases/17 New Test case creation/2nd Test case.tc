@@ -6,4 +6,69 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>79c5dd23-239a-4b77-8d00-d90104f0ef34</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0b1bc2d0-341b-4634-b0d2-ddcd4164bdfd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>27b43778-8004-4c39-81e4-946a5c66d103</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a2697c5e-6253-4596-b443-cf3f2eed7803</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8c4e1f99-ea61-4f04-8345-2d40e8c6de92</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>90c31ecd-e6b5-41b5-87d8-3c4c031a313e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'first contact name'</defaultValue>
+      <description></description>
+      <id>0b1bc2d0-341b-4634-b0d2-ddcd4164bdfd</id>
+      <masked>false</masked>
+      <name>First_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'last contact21'</defaultValue>
+      <description></description>
+      <id>27b43778-8004-4c39-81e4-946a5c66d103</id>
+      <masked>false</masked>
+      <name>Last_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'testemail12@yopmail.com'</defaultValue>
+      <description></description>
+      <id>a2697c5e-6253-4596-b443-cf3f2eed7803</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'key words of the mapping'</defaultValue>
+      <description></description>
+      <id>8c4e1f99-ea61-4f04-8345-2d40e8c6de92</id>
+      <masked>false</masked>
+      <name>Key_words</name>
+   </variable>
+   <variable>
+      <defaultValue>'testing 12 notes'</defaultValue>
+      <description></description>
+      <id>90c31ecd-e6b5-41b5-87d8-3c4c031a313e</id>
+      <masked>false</masked>
+      <name>Notes</name>
+   </variable>
 </TestCaseEntity>

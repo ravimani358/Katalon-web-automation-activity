@@ -6,4 +6,43 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>aa55e427-7283-4ca5-add7-0841818cbb01</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>93a2ef4e-1839-4863-8bed-a3ef60271937</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c523b11b-ed1f-4891-a27a-8b6bca84afa1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2ea45db1-fa25-4552-8558-a32ba240102f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ref'</defaultValue>
+      <description></description>
+      <id>93a2ef4e-1839-4863-8bed-a3ef60271937</id>
+      <masked>false</masked>
+      <name>ref_text</name>
+   </variable>
+   <variable>
+      <defaultValue>'Employee name'</defaultValue>
+      <description></description>
+      <id>c523b11b-ed1f-4891-a27a-8b6bca84afa1</id>
+      <masked>false</masked>
+      <name>emp_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'checking the remark name'</defaultValue>
+      <description></description>
+      <id>2ea45db1-fa25-4552-8558-a32ba240102f</id>
+      <masked>false</masked>
+      <name>remark</name>
+   </variable>
 </TestCaseEntity>

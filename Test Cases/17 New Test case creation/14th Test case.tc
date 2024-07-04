@@ -6,4 +6,17 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>433e9b45-7977-4e50-8e73-f3337e8f3bf4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f8c129cd-4bc2-4895-8471-721f8bac95ca</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'user name field'</defaultValue>
+      <description></description>
+      <id>f8c129cd-4bc2-4895-8471-721f8bac95ca</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
 </TestCaseEntity>

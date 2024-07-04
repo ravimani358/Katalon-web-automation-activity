@@ -50,13 +50,13 @@ WebUI.click(findTestObject('Object Repository/17 New Test case creation/12th Tes
 WebUI.click(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/span_CreditDebit Card'))
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/input_CreditDebit Card_cardNumber'), 
-    '6677889923112233')
+    cardno)
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/input_CreditDebit Card_cvv'), 
-    '987')
+    cvv)
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/input_CreditDebit Card_cardHolderName'), 
-    'Ravisankar N')
+    name)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/17 New Test case creation/12th Test case/Page_ZCommerce/button_Add Card'), 
     0)

@@ -36,19 +36,19 @@ WebUI.click(findTestObject('Object Repository/17 New Test case creation/2nd Test
 WebUI.click(findTestObject('Object Repository/17 New Test case creation/2nd Test case/Page_OrangeHRM/button_Add'))
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/2nd Test case/Page_OrangeHRM/input_Full Name_firstName'), 
-    'candidate fname')
+    First_name)
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/2nd Test case/Page_OrangeHRM/input_Full Name_lastName'), 
-    'Last name')
+    Last_name)
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/2nd Test case/Page_OrangeHRM/input_Email_oxd-input oxd-input--active'), 
-    'test12email@yopmail.com')
+    Email)
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/2nd Test case/Page_OrangeHRM/input_Keywords_oxd-input oxd-input--active'), 
-    'Key words of the option')
+    Key_words)
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/2nd Test case/Page_OrangeHRM/textarea_Notes_oxd-textarea oxd-textarea--f_0ce0e8'), 
-    'Notes are not important')
+    Notes)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/17 New Test case creation/2nd Test case/Page_OrangeHRM/button_Save'), 
     0)

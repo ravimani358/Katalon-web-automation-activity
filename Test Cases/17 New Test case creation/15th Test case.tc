@@ -6,4 +6,17 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>5b47addb-910e-4274-aeee-8b1ae8152344</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aa47098c-70f3-465e-80d3-f31e58323b98</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>aa47098c-70f3-465e-80d3-f31e58323b98</id>
+      <masked>false</masked>
+      <name>set_text</name>
+   </variable>
 </TestCaseEntity>

@@ -34,7 +34,7 @@ WebUI.click(findTestObject('Object Repository/17 New Test case creation/15th Tes
 
 WebUI.click(findTestObject('Object Repository/17 New Test case creation/15th Test case/Page_OrangeHRM/span_Time'))
 
-WebUI.setText(findTestObject('Object Repository/17 New Test case creation/15th Test case/Page_OrangeHRM/input'), 'Admin')
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/15th Test case/Page_OrangeHRM/input'), set_text)
 
 WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/15th Test case/Page_OrangeHRM/button_View'), 
     'View')

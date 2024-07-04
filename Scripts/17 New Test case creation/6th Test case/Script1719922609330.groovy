@@ -31,7 +31,7 @@ WebUI.click(findTestObject('Object Repository/17 New Test case creation/6th Test
 
 WebUI.click(findTestObject('Object Repository/17 New Test case creation/6th Test case/Page_OrangeHRM/span_Claim'))
 
-WebUI.setText(findTestObject('Object Repository/17 New Test case creation/6th Test case/Page_OrangeHRM/input'), 'ref')
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/6th Test case/Page_OrangeHRM/input'), ref_text)
 
 WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/6th Test case/Page_OrangeHRM/h5_Employee Claims'), 
     'Employee Claims')
@@ -42,12 +42,13 @@ WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creat
 WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/6th Test case/Page_OrangeHRM/button_Assign Claim'), 
     'Assign Claim')
 
-WebUI.click(findTestObject('Object Repository/17 New Test case creation/6th Test case/Page_OrangeHRM/button_Assign Claim'))
+WebUI.enhancedClick(findTestObject('Object Repository/17 New Test case creation/6th Test case/Page_OrangeHRM/button_Assign Claim'))
 
-WebUI.setText(findTestObject('Object Repository/17 New Test case creation/6th Test case/Page_OrangeHRM/input'), 'Employee name')
+WebUI.enhancedClick(findTestObject('Object Repository/17 New Test case creation/6th Test case/Page_OrangeHRM/button_Assign Claim'))
 
+//WebUI.setText(findTestObject('Object Repository/17 New Test case creation/6th Test case/Page_OrangeHRM/input'), emp_name)
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/6th Test case/Page_OrangeHRM/textarea_Remarks_oxd-textarea oxd-textarea-_237541'), 
-    'remarks checking')
+    remark)
 
 WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/6th Test case/Page_OrangeHRM/button_Create'), 
     'Create')

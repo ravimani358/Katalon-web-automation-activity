@@ -46,7 +46,7 @@ WebUI.click(findTestObject('Object Repository/17 New Test case creation/14th Tes
 WebUI.click(findTestObject('Object Repository/17 New Test case creation/14th Test case/Page_OrangeHRM/li_Users'))
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/14th Test case/Page_OrangeHRM/input_Username_oxd-input oxd-input--focus'), 
-    'user name field')
+    username)
 
 WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/14th Test case/Page_OrangeHRM/button_Add'), 
     'Add')

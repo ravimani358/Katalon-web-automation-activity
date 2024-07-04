@@ -31,25 +31,25 @@ WebUI.click(findTestObject('Object Repository/17 New Test case creation/8th Tets
 
 WebUI.click(findTestObject('Object Repository/17 New Test case creation/8th Tets case/Page_OrangeHRM/span_PIM'))
 
-WebUI.setText(findTestObject('Object Repository/17 New Test case creation/8th Tets case/Page_OrangeHRM/input'), 'employee hints')
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/8th Tets case/Page_OrangeHRM/input'), Employee_Hints)
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/8th Tets case/Page_OrangeHRM/input_Employee Id_oxd-input oxd-input--active'), 
     '')
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/8th Tets case/Page_OrangeHRM/input_Employee Id_oxd-input oxd-input--focus'), 
-    'empid23')
+    Emp_ID)
 
-WebUI.setText(findTestObject('Object Repository/17 New Test case creation/8th Tets case/Page_OrangeHRM/input'), 'supervisor name')
+WebUI.setText(findTestObject('Object Repository/17 New Test case creation/8th Tets case/Page_OrangeHRM/input'), Supervisor_name)
 
 WebUI.click(findTestObject('Object Repository/17 New Test case creation/8th Tets case/Page_OrangeHRM/div_Add'))
 
 WebUI.click(findTestObject('Object Repository/17 New Test case creation/8th Tets case/Page_OrangeHRM/button_Add'))
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/8th Tets case/Page_OrangeHRM/input_Employee Full Name_firstName'), 
-    'name')
+    First_name)
 
 WebUI.setText(findTestObject('Object Repository/17 New Test case creation/8th Tets case/Page_OrangeHRM/input_Employee Full Name_lastName'), 
-    'last name')
+    Last_name)
 
 WebUI.verifyElementText(findTestObject('Object Repository/17 New Test case creation/8th Tets case/Page_OrangeHRM/button_Save'), 
     'Save')
